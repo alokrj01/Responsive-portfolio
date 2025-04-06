@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": " Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": false,
+
+  "editor.formatOnSave": false,
+  "prettier.singleQuote": true
+}
